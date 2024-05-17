@@ -7,3 +7,6 @@ I am an accomplished Data Analyst with over two(2) years of extensive experience
 - Ms Power BI
 - SQL
 - Python
+
+# Resume
+[Joshua Oluwaseun Aiyeetan - CV.pdf](https://github.com/Joshua-Aiyeetan/Joshua_Oluwaseun_Aiyeetan/files/15353992/Joshua.Oluwaseun.Aiyeetan.-.CV.pdf)
