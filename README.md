@@ -7,6 +7,9 @@ I am an accomplished Data Analyst with over two(2) years of extensive experience
 - Ms Power BI
 - SQL
 - Python
+- Problem-Solving Skills
+- Critical thinking
+- Analytical thinking
 
 # Resume
 
