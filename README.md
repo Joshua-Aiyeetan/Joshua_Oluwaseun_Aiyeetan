@@ -9,4 +9,5 @@ I am an accomplished Data Analyst with over two(2) years of extensive experience
 - Python
 
 # Resume
-[Joshua Oluwaseun Aiyeetan - CV.pdf](https://github.com/Joshua-Aiyeetan/Joshua_Oluwaseun_Aiyeetan/files/15353992/Joshua.Oluwaseun.Aiyeetan.-.CV.pdf)
+
+[Joshua Oluwaseun Aiyeetan - Resume.pdf](https://github.com/Joshua-Aiyeetan/Joshua_Oluwaseun_Aiyeetan/files/15500145/Joshua.Oluwaseun.Aiyeetan.-.Resume.pdf)
